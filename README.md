@@ -52,7 +52,7 @@
 
 1、下载项目
 
-​	git clone https://github.com/angel651/myRepo.git
+​	git clone https://github.com/angel651/LocalRepo.git
 
 2、导入idea
 
