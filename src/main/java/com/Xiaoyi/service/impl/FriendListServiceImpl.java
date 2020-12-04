@@ -15,7 +15,7 @@ import java.math.BigInteger;
 import java.util.List;
 
 /**
- * @author ：Negen
+ * @author ：Xiaoyi
  * @Date ：Created in 22:36 2020/12/4
  * @Description：好友列表业务类
  * @Modified By：

@@ -12,7 +12,7 @@ import java.io.IOException;
 public class TestFilter implements Filter {
     @Override
     public void doFilter(ServletRequest request, ServletResponse response, FilterChain chain) throws IOException, ServletException {
-        log.info("Negen====>doFilter");
+        log.info("Xiaoyi====>doFilter");
         HttpServletRequest httpServletRequest = (HttpServletRequest) request;
         String requestUri = httpServletRequest.getRequestURI();
         String productName = request.getParameter("productName");
